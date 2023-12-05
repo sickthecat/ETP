@@ -20,4 +20,5 @@ Alright, so you're diving into some real scene-style coding here, like cracking 
 5. **Seal the Deal**:
     - `return 0xFFFF & key`: In the end, mask your master key one last time to keep it within bounds. This is your final, polished product - the key that'll unlock the gates.
 
-So, in essence, you're weaving through the input string, mixing bytes with a fixed algorithm, and building up a key that's probably meant to unlock something, or verify something like a software license. It's like you're crafting a digital skeleton key, with each step calculated to align perfectly with the lock you're picking.
+So, in essence, you're weaving through the input string, mixing bytes with a fixed algorithm, and building up a key that's probably meant to unlock something, or verify something like a software license. It's like you're crafting a digital skeleton key, with each step calculated to align perfectly with the lock you're picking, so.. with our key made.. let's pop a lock
+check releases. there's a premade exe for ya.
